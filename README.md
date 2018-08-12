@@ -8,4 +8,4 @@ There are 2 ways to write LINQ queries using the Standard Query Operators:
 
 Note: Behind the scene, LINQ queries written using SQL like query expressions are translated into their Lambda expressions before they are compiled. 
 
-The Standard Query Operators are implemented as extension methods on IEnumerable <T> Interface. 
+The Standard Query Operators are implemented as extension methods on IEnumerable T Interface. 
