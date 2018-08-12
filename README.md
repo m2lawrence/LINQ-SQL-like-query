@@ -9,6 +9,6 @@ The Standard Query Operators are implemented as extension methods on IEnumerable
 
 Note the range operator is: student.
 
-IEnumerable<Student> QueryResult = from student in Student.GetAllStudents()
-where student.Gender == "Male"
-select student;
+1. IEnumerable Student QueryResult = from student in Student.GetAllStudents()
+2. where student.Gender == "Male"
+3. select student;
