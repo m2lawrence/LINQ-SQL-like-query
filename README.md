@@ -1,4 +1,4 @@
-# SQL like-query
+# LINQ: SQL like query.
 
 Select, From, Where, OrderBy, Join, GroupBy.
 
